@@ -6,6 +6,8 @@
 
 ### About me
 
+<script>alert()</script>
+
 I am majoring in Analysis and System Development. Development enthusiast using ☕Java
 
 🔍 Currently open to new opportunities.
